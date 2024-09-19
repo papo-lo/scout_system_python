@@ -1,0 +1,156 @@
+{
+    "pacientes": [
+        {
+            "nombre": "Guillermo Molina",
+            "consultas": [
+                {
+                    "fecha": "2024-09-04 14:45:00",
+                    "motivo": "me duele un pie",
+                    "historial": "familia de dolor de pies",
+                    "notas": "no se cura",
+                    "diagnostico": ""
+                }
+            ],
+            "clasificacion": "Clase B"
+        },
+        {
+            "nombre": "Sofia Redfield",
+            "consultas": [
+                {
+                    "fecha": "2024-09-05 10:00:00",
+                    "motivo": "consulta de rutina",
+                    "historial": "sin antecedentes",
+                    "notas": "todo bien",
+                    "diagnostico": "sin diagnóstico"
+                },
+                {
+                    "fecha": "2024-09-05 05:07:22",
+                    "motivo": "4",
+                    "historial": "wad",
+                    "notas": "adw",
+                    "diagnostico": "ad",
+                    "riesgo": "Clase A"
+                }
+            ],
+            "clasificacion": "Clase A"
+        },
+        {
+            "nombre": "Connor Stone",
+            "consultas": [
+                {
+                    "fecha": "2024-09-06 11:00:00",
+                    "motivo": "dolor de cabeza",
+                    "historial": "migraña",
+                    "notas": "receta de analgésico",
+                    "diagnostico": "migraña"
+                }
+            ],
+            "clasificacion": "Clase B"
+        },
+        {
+            "nombre": "Aram Grullon",
+            "consultas": [
+                {
+                    "fecha": "2024-09-07 12:30:00",
+                    "motivo": "revisión anual",
+                    "historial": "sin antecedentes",
+                    "notas": "todo en orden",
+                    "diagnostico": "sin diagnóstico"
+                }
+            ],
+            "clasificacion": "Clase A"
+        },
+        {
+            "nombre": "Claudia Ramirez",
+            "consultas": [
+                {
+                    "fecha": "2024-09-08 14:00:00",
+                    "motivo": "tos persistente",
+                    "historial": "fumador",
+                    "notas": "recomienda dejar de fumar",
+                    "diagnostico": "bronquitis"
+                }
+            ],
+            "clasificacion": "Clase B"
+        },
+        {
+            "nombre": "Maria Victoria",
+            "consultas": [
+                {
+                    "fecha": "2024-09-09 15:00:00",
+                    "motivo": "control de presión",
+                    "historial": "hipertensión",
+                    "notas": "continuar medicación",
+                    "diagnostico": "hipertensión controlada"
+                }
+            ],
+            "clasificacion": "Clase A"
+        },
+        {
+            "nombre": "David Mipalo",
+            "consultas": [
+                {
+                    "fecha": "2024-09-10 09:00:00",
+                    "motivo": "fiebre",
+                    "historial": "resfriados frecuentes",
+                    "notas": "reposo y líquidos",
+                    "diagnostico": "gripe"
+                }
+            ],
+            "clasificacion": "Clase B"
+        },
+        {
+            "nombre": "Elena Rodríguez",
+            "consultas": [
+                {
+                    "fecha": "2024-09-11 08:45:00",
+                    "motivo": "dolor abdominal",
+                    "historial": "gastritis",
+                    "notas": "dieta blanda",
+                    "diagnostico": "gastritis"
+                }
+            ],
+            "clasificacion": "Clase A"
+        },
+        {
+            "nombre": "Juan López",
+            "consultas": [
+                {
+                    "fecha": "2024-09-12 11:15:00",
+                    "motivo": "molestia en la vista",
+                    "historial": "miopía",
+                    "notas": "receta de lentes",
+                    "diagnostico": "miopía"
+                }
+            ],
+            "clasificacion": "Clase B"
+        },
+        {
+            "nombre": "Clara Sánchez",
+            "consultas": [
+                {
+                    "fecha": "2024-09-13 13:30:00",
+                    "motivo": "dolor de espalda",
+                    "historial": "sedentarismo",
+                    "notas": "recomendación de ejercicios",
+                    "diagnostico": "contractura muscular"
+                }
+            ],
+            "clasificacion": "Clase A"
+        },
+        {
+            "nombre": "Sarah Mivida ",
+            "consultas": [
+                {
+                    "fecha": "2024-09-05 05:08:29",
+                    "motivo": "Dolor de muela",
+                    "historial": "Le ha estado doliendo la muela por dais ",
+                    "notas": "Le encanta poner cuernos ",
+                    "diagnostico": "Cuernera",
+                    "riesgo": "Clase A"
+                }
+            ],
+            "clasificacion": "Clase A"
+        }
+    ]
+}
